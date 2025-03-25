@@ -1,0 +1,3 @@
+0: ADD 2.000000 _t1 [line 5]
+1: ASSIGN _t1 a [line 5]
+2: ASSIGN a _t2 [line 5]
